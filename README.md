@@ -3,7 +3,7 @@
 This repository contains supporting files for my projects, including reports, presentations, screenshots, and demo videos.
 
 ## Projects
-- [Amneen|آمنين] - Graduation Project (https://github.com/DareenAlsulami1/Project-Files/tree/main/Amneen)
+- [Amneen|آمنين - Graduation Project](https://github.com/DareenAlsulami1/Project-Files/tree/main/Amneen)
   
 A desktop-based AI crowd management system developed using Flutter, Django, and PostgreSQL. Uses computer vision and deep learning to detect and predict overcrowding in real-time with an intuitive dashboard for decision-makers.
 
