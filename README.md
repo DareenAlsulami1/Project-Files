@@ -22,3 +22,7 @@ Proposed app to streamline university parking by helping students find available
 - Forsah|فرصة
   
 App to simplify finding training, learning, and job opportunities for students. Includes a user-friendly Figma prototype for CV building and account management.
+
+- Xpend [Prototype](https://www.figma.com/proto/EXtZ7bVBHsd9D16A4Cc8e0/Xpend?node-id=34-2158&t=0Mi0E1ho5PDBqrcq-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=34%3A2158)
+
+is a personal finance management application designed to help users better manage their finances. It provides a user-friendly platform to track expenses, set budgets, monitor financial goals, and receive bill reminders. The app addresses common problems such as careless spending, difficulty in budgeting, and financial stress caused by ads and influencer culture. With intuitive interfaces and personalized budgeting tailored to each user’s lifestyle, Xpend helps users save effectively, reduce the need for loans, and achieve long-term financial goals.
