@@ -7,7 +7,7 @@ This repository contains supporting files for my projects, including reports, pr
   
 A desktop-based AI crowd management system developed using Flutter, Django, and PostgreSQL. Uses computer vision and deep learning to detect and predict overcrowding in real-time with an intuitive dashboard for decision-makers.
 
-- Luna Cafe
+- Luna Cafe (https://github.com/DareenAlsulami1/Luna-cafe)
   
 Website for Luna Cafe and Bakery to enhance online presence, showcase brand identity, and improve customer engagement. Demonstrates web development, UX design, and digital communication skills.
 
